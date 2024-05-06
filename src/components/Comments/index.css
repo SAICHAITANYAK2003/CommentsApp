@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.comments-container {
+  padding: 20px;
+}
+.comment-image {
+  height: 100px;
+}
+.comment-downline {
+  width: 90vw;
+}
+
+.comment-input-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
